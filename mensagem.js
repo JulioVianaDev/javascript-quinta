@@ -1,2 +1,2 @@
-console.log("mensagem")
-console.error("erro")
+//console.log("mensagem")
+//console.error("erro")
